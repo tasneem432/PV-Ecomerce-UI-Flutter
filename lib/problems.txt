@@ -1,0 +1,9 @@
+1. Radio button style
+2. Stack widget
+3. Onboard: slider
+4. Registration: phn, email======= size thik kora(task)
+5. BottomDashboardHome -- Alignment right
+    -- Padding problem
+
+7. My Ads page card size error
+8. Chat screen input style problem
